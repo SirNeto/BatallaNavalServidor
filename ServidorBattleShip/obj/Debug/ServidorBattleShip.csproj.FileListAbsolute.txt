@@ -1,0 +1,6 @@
+C:\Users\usuario\Documents\7_semestre\Patrones de Diseño\ServidorBattleShip\ServidorBattleShip\bin\Debug\ServidorBattleShip.exe.config
+C:\Users\usuario\Documents\7_semestre\Patrones de Diseño\ServidorBattleShip\ServidorBattleShip\bin\Debug\ServidorBattleShip.exe
+C:\Users\usuario\Documents\7_semestre\Patrones de Diseño\ServidorBattleShip\ServidorBattleShip\bin\Debug\ServidorBattleShip.pdb
+C:\Users\usuario\Documents\7_semestre\Patrones de Diseño\ServidorBattleShip\ServidorBattleShip\obj\Debug\ServidorBattleShip.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\7_semestre\Patrones de Diseño\ServidorBattleShip\ServidorBattleShip\obj\Debug\ServidorBattleShip.exe
+C:\Users\usuario\Documents\7_semestre\Patrones de Diseño\ServidorBattleShip\ServidorBattleShip\obj\Debug\ServidorBattleShip.pdb
